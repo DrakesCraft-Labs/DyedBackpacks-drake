@@ -1,4 +1,4 @@
-package io.github.thebusybiscuit.dyedbackpacks;
+package com.github.drakescraft-labs.dyedbackpacks;
 
 import javax.annotation.Nonnull;
 import javax.annotation.ParametersAreNonnullByDefault;
