@@ -1,4 +1,4 @@
-package com.github.drakescraft-labs.dyedbackpacks;
+package com.github.drakescraft_labs.dyedbackpacks;
 
 import javax.annotation.Nonnull;
 import javax.annotation.ParametersAreNonnullByDefault;
