@@ -1,3 +1,9 @@
+> [!WARNING]
+> ### ⚠️ ARCHIVADO / CONSOLIDADO EN DRAKES-SUITES
+> Este repositorio ha sido consolidado de forma definitiva en el monorepo oficial:  
+> 👉 [**Drakes-Suites (Suite 5: DrakesUtility)**](https://github.com/DrakesCraft-Labs/Drakes-Suites)  
+> Todo el desarrollo activo, optimizaciones del Ticker Engine, compatibilidad con Paper 1.21.11 y preparación para 26.X se realiza exclusivamente allí.
+
 # DyedBackpacks
 A brand new Slimefun addon adding the ability to dye your beloved backpacks!
 - Dye all your backpacks by using the wools with the wanted color.
